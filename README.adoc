@@ -1,0 +1,11 @@
+This repository contains scripts to reproduce different
+scenarios/use cases encountered while using git.
+
+Every script has a short description at the top to explain
+the use case or the scenario it reproduces.
+
+If you want to contribute with new examples, you can use a copy of the
+_template.sh_ file as starting point.
+
+The _utils.sh_ file contains several methods for logging
+information to the console or pause/abort the execution.
